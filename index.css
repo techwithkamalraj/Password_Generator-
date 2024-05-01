@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(30, 189, 242);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#section{
+    margin-top: 100px;
+    background-color: white;
+    padding: 80px;
+    border-radius: 20px;
+}
+#password{
+    position: relative;
+    bottom:  40px;
+    padding: 10px;
+    border: 2px solid lightblue;
+    box-shadow: black;
+}
+#inline{
+    display: flex;
+    justify-content: center;
+}
